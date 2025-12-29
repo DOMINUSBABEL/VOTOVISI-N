@@ -1,0 +1,7 @@
+{
+  "name": "VotoVisión Antioquia",
+  "description": "An interactive geospatial visualization of voting data for Medellín and Antioquia. This application parses detailed voting CSV data to generate a density map (heatmap) of votes per commune and municipality. It features an integrated Gemini AI assistant to analyze voting trends and provide insights based on the displayed data.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
